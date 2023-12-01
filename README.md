@@ -59,9 +59,6 @@ python TripeptideGenerator.py
 amino_acids_script.py: Script for managing amino acids data.
 chemical_formula_calculator.py: Script for calculating combined chemical structures.
 TripeptideGenerator.py: Script for generating tripeptide sequences with formulas.
-combined_structure.txt: Output file containing the combined chemical structure.
-Contributing
-Contributions are welcome! Please follow our contribution guidelines.
 
 ### Advancments
 1. Graphical User Interface (GUI): Develop a GUI to make the project more user-friendly. Users could interact with the functionalities through buttons, input fields, and graphical representations.
