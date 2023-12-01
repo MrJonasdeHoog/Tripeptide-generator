@@ -12,6 +12,7 @@ This project involves scripts related to amino acids and tripeptides. It include
 - [Usage](#usage)
 - [Files and Structure](#files-and-structure)
 - [Advancments](#advancments)
+- [Contact](#contact)
 
 ## Features
 
