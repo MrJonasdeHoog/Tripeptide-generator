@@ -32,7 +32,7 @@ This project involves scripts related to amino acids and tripeptides. It include
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/amino-acids-tripeptides.git
+   git clone [https://github.com/MrJonasdeHoog/Tripeptide-generator]
 Navigate to the project directory:
 
 bash
