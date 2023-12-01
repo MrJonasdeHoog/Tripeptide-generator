@@ -33,16 +33,6 @@ This project involves scripts related to amino acids and tripeptides. It include
 
    ```bash
    git clone [https://github.com/MrJonasdeHoog/Tripeptide-generator]
-Navigate to the project directory:
-
-bash
-Copy code
-cd amino-acids-tripeptides
-Install dependencies (if any):
-
-bash
-Copy code
-pip install -r requirements.txt
 
 ### Usage
 Run the scripts individually based on your requirements:
